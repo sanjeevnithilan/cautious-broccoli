@@ -8,3 +8,8 @@ South Indian Breeds:
 Kangeyam
 Bargur
 Umbalachery
+
+North Indian Breeds:
+--------------------
+Gir
+Shahiwaal
